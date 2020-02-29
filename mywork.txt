@@ -1,0 +1,16 @@
+My associate id:
+845139
+Other team members:
+845139, 845138, 845026, 845141, 845087
+Team lead:
+845087
+My Role in team:
+1. I developed Place Gift Order Page and  Validations of that Page in Angular.
+My development files:
+1. placeOrder.html
+2. placeOrder.ts
+I was strong in:
+1. Angular
+2. Json Server
+Feedback:
+1. Good to learn what to do and how to implement in project.
